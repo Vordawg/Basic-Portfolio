@@ -1,0 +1,49 @@
+#ulistPortfolio {
+  font-weight: bold;
+}
+
+#row1 {
+ padding-top: 25px;
+}
+
+#hangmanPhoto {
+  width: 325px;
+  height:175px;
+  padding-right: 25px;
+  float: left;
+}
+
+#rpgGame {
+  width: 325px;
+  height:175px;
+  float: left;
+}
+
+#row2 {
+  clear: both;
+  padding-top: 25px;
+}
+
+#triviaGame {
+  width: 325px;
+  height:175px;
+  padding-right: 25px;
+  float: left;
+}
+
+#rutgersInfoWidget {
+  width: 325px;
+  height:175px;
+  float: left;
+}
+
+#row3 {
+  clear: both;
+  padding-top: 25px;
+}
+
+#rockPaperScissors {
+  width: 325px;
+  height:175px;
+  float: left;
+}
