@@ -36,8 +36,10 @@ li {
 #mainContainer{
     clear: both;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
-    background: #cccccc;
     height:800px;
+    background-image: url("assets/images/intersection.png");
+    background-repeat: repeat;
+    background-size: auto;
 }
 
 #aboutMeTitle {
